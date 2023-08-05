@@ -1,6 +1,6 @@
 from funcs import sum_numbers, sub_numbers
 def main():
-    a = sum_numbers(1, 2)
+    a = sub_numbers(2, 2)
     print(a)
 
 if __name__ == '__main__':
